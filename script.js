@@ -9,17 +9,17 @@ const CONFIG = {
   // 1) WHATSAPP NUMBER — replace with your real number.
   //    Format: country code + number, NO +, NO spaces, NO dashes.
   //    Example for India: "919876543210"
-  WHATSAPP_NUMBER: "919999999999",
+  WHATSAPP_NUMBER: "7398957885",
 
   BUSINESS_NAME: "Pizza Hub",
 
   // 2) OPENING HOURS — 24hr format "HH:MM". Set open:null for a closed day.
   HOURS: [
-    { day: "Monday",    open: "11:00", close: "23:00" },
-    { day: "Tuesday",   open: "11:00", close: "23:00" },
-    { day: "Wednesday", open: "11:00", close: "23:00" },
-    { day: "Thursday",  open: "11:00", close: "23:00" },
-    { day: "Friday",    open: "11:00", close: "23:00" },
+    { day: "Monday",    open: "11:00", close: "23:30" },
+    { day: "Tuesday",   open: "11:00", close: "23:30" },
+    { day: "Wednesday", open: "11:00", close: "23:30" },
+    { day: "Thursday",  open: "11:00", close: "23:30" },
+    { day: "Friday",    open: "11:00", close: "23:30" },
     { day: "Saturday",  open: "11:00", close: "23:30" },
     { day: "Sunday",    open: "11:00", close: "23:30" },
   ],
